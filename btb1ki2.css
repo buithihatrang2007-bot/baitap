@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(176, 113, 19)
+}
+table,th,td{
+    font-size: 120%;
+    background-color: bisque;
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: blueviolet;
+}
+#nen{
+    color: rgb(7, 121, 121);
+}
+th{
+    background-color: rgb(231, 156, 42);
+}
+td{
+    text-align: center;
+}
